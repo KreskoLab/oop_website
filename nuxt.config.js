@@ -1,7 +1,8 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'oop',
+    title: 'Курсова робота звіт - ООП',
+    target: 'static',
     htmlAttrs: {
       lang: 'en'
     },
