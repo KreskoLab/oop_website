@@ -25,7 +25,7 @@
                 <ul class="list-decimal text-xl pl-6 select-none">
 
                     <li class="font-medium">
-                        <a class="underline !text-rose-400" href="https://github.com/KreskoLab/market_stock">GitHub</a>
+                        <a class="underline !text-rose-400" target="_blank" href="https://github.com/KreskoLab/market_stock">GitHub</a>
                     </li>
 
                 </ul>
