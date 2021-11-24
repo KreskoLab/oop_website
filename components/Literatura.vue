@@ -25,19 +25,19 @@
                 <ul class="list-decimal text-xl pl-6 select-none">
 
                     <li class="font-medium">
-                        <a class="underline !text-rose-400" href="https://www.electronjs.org/docs/latest">Electron js документація</a>
+                        <a class="underline !text-rose-400" target="_blank" href="https://www.electronjs.org/docs/latest">Electron js документація</a>
                     </li>
 
                     <li class="font-medium pt-2">
-                        <a class="underline !text-rose-400" href="https://nuxtjs.org/docs/get-started/installation">Nuxt js документація</a>
+                        <a class="underline !text-rose-400" target="_blank" href="https://nuxtjs.org/docs/get-started/installation">Nuxt js документація</a>
                     </li>
 
                     <li class="font-medium pt-2">
-                        <a class="underline !text-rose-400" href="https://windicss.org/guide/">Windi css документація</a>
+                        <a class="underline !text-rose-400" target="_blank" href="https://windicss.org/guide/">Windi css документація</a>
                     </li>
 
                     <li class="font-medium pt-2">
-                        <a class="underline !text-rose-400" href="https://listingcenter.nasdaq.com/assets/initialguide.pdf">NASDAQ вимоги до лістингу</a>
+                        <a class="underline !text-rose-400" target="_blank" href="https://listingcenter.nasdaq.com/assets/initialguide.pdf">NASDAQ вимоги до лістингу</a>
                     </li>
 
                 </ul>
